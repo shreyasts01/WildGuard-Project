@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="wildguard_primary">#4A90E2</color>
+    <color name="wildguard_secondary">#4CAF50</color>
+    <color name="wildguard_accent">#F44336</color>
+    <color name="appbar_unknown">#333333</color>
+    <color name="appbar_safe">#4CAF50</color>
+    <color name="appbar_danger">#F44336</color>
+    <color name="bottom_nav_unselected_icon">#BDBDBD</color>
+    <color name="bottom_nav_selected_icon">#FFFFFF</color>
+    <color name="card_background">#E0E0E0</color>
+    <color name="alert_green">#E8F5E9</color>
+    <color name="stat_card_alerts">#FFCCBC</color>
+    <color name="stat_card_resp">#B3E5FC</color>
+    <color name="stat_card_status">#E0E0E0</color>
+    <color name="road_unknown">#616161</color>
+    <color name="danger_red">#F44336</color>
+    <color name="safe_green">#4CAF50</color>
+    <color name="dark_green">#006400</color>
+
+</resources>

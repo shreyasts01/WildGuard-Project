@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Features -->
+    <uses-feature
+        android:name="android.hardware.telephony"
+        android:required="false" />
+
+    <!-- Permissions -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"
+        android:maxSdkVersion="32" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+        android:maxSdkVersion="28" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.WildGuard"
+        tools:targetApi="34">
+
+        <!-- Backup rules (if any XML exists) -->
+        <meta-data
+            android:name="android.backup.allowBackup"
+            android:value="true" />
+        <meta-data
+            android:name="android.app.backup.rules"
+            android:resource="@xml/backup_rules" />
+        <meta-data
+            android:name="android.app.data_extraction.rules"
+            android:resource="@xml/data_extraction_rules" />
+
+        <!-- Splash / Login Activity (Launcher) -->
+        <activity
+            android:name=".LoginActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.WildGuard">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- Main Activity -->
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.WildGuard" />
+
+        <!-- Detected Animals Activity (Added) -->
+        <activity
+            android:name=".DetectedAnimalsActivity"
+            android:exported="true"
+            android:label="Detected Animals"
+            android:theme="@style/Theme.WildGuard" />
+
+        <!-- Report Activity -->
+        <activity
+            android:name=".ReportActivity"
+            android:exported="false"
+            android:label="Report"
+            android:theme="@style/Theme.WildGuard" />
+
+        <!-- Reroute Activity -->
+        <activity
+            android:name=".RerouteActivity"
+            android:exported="false"
+            android:label="Reroute"
+            android:theme="@style/Theme.WildGuard" />
+
+        <!-- Profile Activity -->
+        <activity
+            android:name=".ProfileActivity"
+            android:exported="false"
+            android:label="Profile"
+            android:theme="@style/Theme.WildGuard" />
+        <activity
+            android:name=".MapActivity"
+            android:exported="false"
+            android:label="Map"
+            android:theme="@style/Theme.WildGuard" />
+        <meta-data
+            android:name="org.osmdroid.config"
+            android:resource="@xml/osmdroid_config" />
+
+    </application>
+
+</manifest>

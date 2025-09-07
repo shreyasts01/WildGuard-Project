@@ -1,0 +1,16 @@
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:ignore="ExtraText">
+    <item
+        android:id="@+id/menu_item_profile"
+        android:title="menu"
+        android:icon="@drawable/ic_menu"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_bell"
+        android:title="Detected Animals"
+        android:icon="@drawable/ic_notifications"
+    app:showAsAction="ifRoom" />
+
+</menu>

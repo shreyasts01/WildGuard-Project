@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">wildguard</string>
+    <string name="settings">Settings</string>
+    <string name="nearby_hospitals">Nearby Hospitals</string>
+    <string name="emergency_helpline">Emergency Helpline</string>
+    <string name="logout">Logout</string>
+    <string name="logoutt">Logout</string>
+    <string name="emergency_helpl">Emergency Helpline</string>
+    <string name="nearby_hospital">Nearby Hospitals</string>
+    <string name="setting">Settings</string>
+    <string name="animal_hazard_icon" />
+    <string name="animal_snapshot">Animal Snapshot</string>
+
+</resources>

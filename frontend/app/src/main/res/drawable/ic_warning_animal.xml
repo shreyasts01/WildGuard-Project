@@ -1,0 +1,10 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="36dp"
+    android:height="36dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Triangle with exclamation -->
+    <path
+        android:fillColor="#FF6F00"
+        android:pathData="M1,21h22L12,2 1,21zM12,16v-4h0.01v4H12zm0,4v-2h0.01v2H12z"/>
+</vector>

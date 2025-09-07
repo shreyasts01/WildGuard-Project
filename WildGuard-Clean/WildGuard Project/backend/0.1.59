@@ -1,0 +1,22 @@
+Requirement already satisfied: onnx<1.18.0,>=1.12.0 in c:\users\asus\backend part 2\yolov8env\lib\site-packages (1.17.0)
+Requirement already satisfied: onnxruntime in c:\users\asus\backend part 2\yolov8env\lib\site-packages (1.19.2)
+Requirement already satisfied: onnxslim in c:\users\asus\backend part 2\yolov8env\lib\site-packages (0.1.64)
+Requirement already satisfied: numpy>=1.20 in c:\users\asus\backend part 2\yolov8env\lib\site-packages (from onnx<1.18.0,>=1.12.0) (2.0.2)
+Requirement already satisfied: protobuf>=3.20.2 in c:\users\asus\backend part 2\yolov8env\lib\site-packages (from onnx<1.18.0,>=1.12.0) (6.31.1)
+Requirement already satisfied: coloredlogs in c:\users\asus\backend part 2\yolov8env\lib\site-packages (from onnxruntime) (15.0.1)
+Requirement already satisfied: flatbuffers in c:\users\asus\backend part 2\yolov8env\lib\site-packages (from onnxruntime) (25.2.10)
+Requirement already satisfied: packaging in c:\users\asus\backend part 2\yolov8env\lib\site-packages (from onnxruntime) (25.0)
+Requirement already satisfied: sympy in c:\users\asus\backend part 2\yolov8env\lib\site-packages (from onnxruntime) (1.13.1)
+Collecting sympy (from onnxruntime)
+  Using cached sympy-1.14.0-py3-none-any.whl.metadata (12 kB)
+Requirement already satisfied: colorama in c:\users\asus\backend part 2\yolov8env\lib\site-packages (from onnxslim) (0.4.6)
+Requirement already satisfied: mpmath<1.4,>=1.1.0 in c:\users\asus\backend part 2\yolov8env\lib\site-packages (from sympy->onnxruntime) (1.3.0)
+Requirement already satisfied: humanfriendly>=9.1 in c:\users\asus\backend part 2\yolov8env\lib\site-packages (from coloredlogs->onnxruntime) (10.0)
+Requirement already satisfied: pyreadline3 in c:\users\asus\backend part 2\yolov8env\lib\site-packages (from humanfriendly>=9.1->coloredlogs->onnxruntime) (3.5.4)
+Using cached sympy-1.14.0-py3-none-any.whl (6.3 MB)
+Installing collected packages: sympy
+  Attempting uninstall: sympy
+    Found existing installation: sympy 1.13.1
+    Uninstalling sympy-1.13.1:
+      Successfully uninstalled sympy-1.13.1
+Successfully installed sympy-1.14.0

@@ -1,0 +1,16 @@
+backend/datasets_raw/
+backend/yolov8env/
+*.iml
+.gradle/
+.idea/
+/build/
+/captures/
+__pycache__/
+*.pyc
+*.pyo
+env/
+venv/
+*.sqlite3
+node_modules/
+google-services.json
+wildguard-b880e-firebase-adminsdk-fbsvc-0039a192ec.json

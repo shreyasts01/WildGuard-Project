@@ -1,0 +1,34 @@
+# Android Studio
+*.iml
+.gradle
+/local.properties
+/.idea/
+/build/
+/captures/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+*.sqlite3
+
+# Node.js (if any)
+node_modules/
+
+# Firebase admin SDK (sensitive)
+wildguard-b880e-firebase-adminsdk-fbsvc-0039a192ec.json
+
+# Google Services (optional, sensitive)
+google-services.json
+
+# Ignore the entire raw dataset folder
+backend/datasets_raw/
+
+# Ignore virtual environment folder
+backend/yolov8env/
+backend/runs/
+backend/results/
+backend/yolov8env/
