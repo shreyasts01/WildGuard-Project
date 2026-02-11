@@ -37,7 +37,7 @@ Reduces manual monitoring and improves alert response time to under 5 seconds.
 ![Notifications](screenshots/notifications.jpg)
 
 ### 🗺 Map View
-![Map](screenshots/map.jpg)
+![Map](screenshots/map.jpeg)
 
 ### ⚙ Settings
 ![Settings](screenshots/settings.jpg)
