@@ -26,7 +26,7 @@ Reduces manual monitoring and improves alert response time to under 5 seconds.
 
 ### 🏠 Home Screen
 <p align="center">
-  <img src="screenshots/home.jpeg" width="300" height="600">
+  <img src="screenshots/home.jpeg" width="300" height="450">
 </p>
 
 ### 🧠 YOLOv8 Detection (Terminal)
