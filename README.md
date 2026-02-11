@@ -24,21 +24,53 @@ Reduces manual monitoring and improves alert response time to under 5 seconds.
 
 ## 📸 Project Screenshots
 
-### 🧠 YOLOv8 Real-Time Detection
-![Detection](screenshots/detection.jpg)
+### 🏠 Home Screen
+<p align="center">
+  <img src="screenshots/home.jpg" width="400">
+</p>
 
-### 📱 Android Dashboard
-![Dashboard](screenshots/dashboard.jpg)
+### 🧠 YOLOv8 Detection (Terminal)
+<p align="center">
+  <img src="screenshots/detection.jpg" width="400">
+</p>
 
-### 🚨 Alert System
-![Alert](screenshots/alert.jpg)
+### 📊 Dashboard
+<p align="center">
+  <img src="screenshots/dashboard.jpg" width="400">
+</p>
 
-### 🔔 Push Notifications
-![Notifications](screenshots/notifications.jpg)
+### 📊 Dashboard (Alternate View)
+<p align="center">
+  <img src="screenshots/dashboard1.jpg" width="400">
+</p>
+
+### 🚨 Alert Screen
+<p align="center">
+  <img src="screenshots/alert.jpg" width="400">
+</p>
+
+### 🚨 Alert Screen (Detailed View)
+<p align="center">
+  <img src="screenshots/alert1.jpg" width="400">
+</p>
+
+### 🔔 Notifications
+<p align="center">
+  <img src="screenshots/notification.jpg" width="400">
+</p>
+
+### 🔔 Notifications (Grouped)
+<p align="center">
+  <img src="screenshots/notification1.jpg" width="400">
+</p>
 
 ### 🗺 Map View
-![Map](screenshots/map.jpeg)
+<p align="center">
+  <img src="screenshots/map.jpg" width="400">
+</p>
 
-### ⚙ Settings
-![Settings](screenshots/settings.jpg)
+### ⚙ Settings Screen
+<p align="center">
+  <img src="screenshots/setting.jpg" width="400">
+</p>
 
