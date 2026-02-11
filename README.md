@@ -31,46 +31,46 @@ Reduces manual monitoring and improves alert response time to under 5 seconds.
 
 ### 🧠 YOLOv8 Detection (Terminal)
 <p align="center">
-  <img src="screenshots/detection.jpeg" width="300" height="600">
+  <img src="screenshots/detection.jpeg" width="300" height="450">
 </p>
 
 ### 📊 Dashboard
 <p align="center">
-  <img src="screenshots/dashboard.jpeg" width="300" height="600">
+  <img src="screenshots/dashboard.jpeg" width="300" height="450">
 </p>
 
 ### 📊 Dashboard (Alternate View)
 <p align="center">
-  <img src="screenshots/dashboard1.jpeg" width="300" height="600">
+  <img src="screenshots/dashboard1.jpeg" width="300" height="450">
 </p>
 
 ### 🚨 Alert Screen
 <p align="center">
-  <img src="screenshots/alert.jpeg" width="300" height="600">
+  <img src="screenshots/alert.jpeg" width="300" height="450">
 </p>
 
 ### 🚨 Alert Screen (Detailed View)
 <p align="center">
-  <img src="screenshots/alert1.jpeg" width="300" height="600">
+  <img src="screenshots/alert1.jpeg" width="300" height="450">
 </p>
 
 ### 🔔 Notifications
 <p align="center">
-  <img src="screenshots/notification.jpeg" width="300" height="600">
+  <img src="screenshots/notification.jpeg" width="300" height="450">
 </p>
 
 ### 🔔 Notifications 
 <p align="center">
-  <img src="screenshots/notification1.jpeg" width="300" height="600">
+  <img src="screenshots/notification1.jpeg" width="300" height="450">
 </p>
 
 ### 🗺 Map View
 <p align="center">
-  <img src="screenshots/map.jpeg" width="300" height="600">
+  <img src="screenshots/map.jpeg" width="300" height="450">
 </p>
 
 ### ⚙ Settings Screen
 <p align="center">
-  <img src="screenshots/setting.jpeg" width="300" height="600">
+  <img src="screenshots/setting.jpeg" width="300" height="450">
 </p>
 
